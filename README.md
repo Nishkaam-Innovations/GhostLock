@@ -55,7 +55,7 @@ Grab it now on Google Play:
 
 ## 📸 Screenshots
 
-*(Add images of your app interface here — e.g. alert screens, settings page, etc.)*
+![Home Screen](nVnEwhdhNjAB_1024_500.png)
 
 ---
 

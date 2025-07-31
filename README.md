@@ -8,11 +8,19 @@
 
 ---
 
+## 📸 Feature Graphic
+
+![Feature Graphic](screenshots/nVnEwhdhNjAB_1024_500.png)
+
+---
+
 ## 📱 Overview
 
-**GhostLock** is a smart, AI-powered anti-pickpocket app that detects unauthorized movement and protects your phone in public or crowded places.
+**GhostLock** is a smart, AI-powered anti-pickpocket app that detects unauthorized movement and protects your phone in public or crowded places. It triggers instant alerts, blocks tampering attempts, and helps recover your phone if it goes missing.
 
-### 🔐 Key Features
+---
+
+## 🔐 Key Features
 
 - ✨ **AI Theft Detection**  
   Detects suspicious movement like a phone being pulled from your pocket or bag.
@@ -28,23 +36,22 @@
 
 ---
 
-  ## 🔐 Most Important Features
+## 🚨 Most Important Features
 
 - 🕵️ **Anti Pickpocket Detection**  
   AI-based motion detection when someone tries to grab your phone. Triggers loud alerts or lock.
 
 - 📸 **Intruder Face Capture**  
-  Snaps photo of intruders trying to unlock your device.
+  Snaps a photo of anyone who tries to unlock your device.
 
 - 📶 **SIM Change Alert**  
-  Notifies if the SIM is changed and sends real-time location.
+  Sends location if SIM is removed or replaced.
 
 - 📴 **Shutdown Block**  
-  Prevents unauthorized shutdowns to maintain GPS & alert continuity.
+  Prevents forced shutdown to keep tracking enabled.
 
 - ✈️ **Airplane Mode Blocker**  
   Stops intruders from disabling network with airplane mode.
-
 
 ---
 
@@ -57,7 +64,6 @@ Grab it now on Google Play:
     <img src="https://play.google.com/intl/en/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="180"/>
   </a>
 </p>
-
 
 ---
 
@@ -75,13 +81,8 @@ Grab it now on Google Play:
 ## 🧑‍💻 Developer
 
 **Nishkaam Innovations**  
-[Website](https://nishkaaminnovations.com/ghostlock/) | [Medium Blog](https://medium.com/@sasanksingh2074/stop-pickpockets-before-they-strike-with-just-your-phone-824427e191e3)
-
----
-
-## 📸 Feature Graphic
-
-![Feature Graphics](screenshots/nVnEwhdhNjAB_1024_500.png)
+🌐 [Website](https://nishkaaminnovations.com/ghostlock/)  
+📝 [Medium Blog](https://medium.com/@sasanksingh2074/stop-pickpockets-before-they-strike-with-just-your-phone-824427e191e3)
 
 ---
 
@@ -93,4 +94,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 > Protect your phone, effortlessly. ✨  
 > _GhostLock: Stay alert, stay safe._
-

@@ -55,7 +55,7 @@ Grab it now on Google Play:
 
 ## 📸 Screenshots
 
-![Home Screen](nVnEwhdhNjAB_1024_500.png)
+![Home Screen](screenshots/nVnEwhdhNjAB_1024_500.png)
 
 ---
 

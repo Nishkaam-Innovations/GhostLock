@@ -28,10 +28,36 @@
 
 ---
 
+  ## 🔐 Most Important Features
+
+- 🕵️ **Anti Pickpocket Detection**  
+  AI-based motion detection when someone tries to grab your phone. Triggers loud alerts or lock.
+
+- 📸 **Intruder Face Capture**  
+  Snaps photo of intruders trying to unlock your device.
+
+- 📶 **SIM Change Alert**  
+  Notifies if the SIM is changed and sends real-time location.
+
+- 📴 **Shutdown Block**  
+  Prevents unauthorized shutdowns to maintain GPS & alert continuity.
+
+- ✈️ **Airplane Mode Blocker**  
+  Stops intruders from disabling network with airplane mode.
+
+
+---
+
 ## 📥 Download
 
-Grab it now on Google Play:  
-[![GhostLock on Play Store](https://play.google.com/intl/en/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/dev?id=6061016513495642093)
+Grab it now on Google Play:
+
+<p>
+  <a href="https://play.google.com/store/apps/dev?id=6061016513495642093">
+    <img src="https://play.google.com/intl/en/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="180"/>
+  </a>
+</p>
+
 
 ---
 

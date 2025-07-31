@@ -49,13 +49,13 @@ Grab it now on Google Play:
 ## 🧑‍💻 Developer
 
 **Nishkaam Innovations**  
-[Website](https://chandravanshitechnologicalsolutions.com) | [Medium Blog](https://medium.com/@sasanksingh2074/stop-pickpockets-before-they-strike-with-just-your-phone-824427e191e3)
+[Website](https://nishkaaminnovations.com/ghostlock/) | [Medium Blog](https://medium.com/@sasanksingh2074/stop-pickpockets-before-they-strike-with-just-your-phone-824427e191e3)
 
 ---
 
-## 📸 Screenshots
+## 📸 Feature Graphic
 
-![Home Screen](screenshots/nVnEwhdhNjAB_1024_500.png)
+![Feature Graphics](screenshots/nVnEwhdhNjAB_1024_500.png)
 
 ---
 

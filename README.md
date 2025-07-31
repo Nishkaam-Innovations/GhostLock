@@ -82,7 +82,7 @@ Grab it now on Google Play:
 
 **Nishkaam Innovations**  
 🌐 [Website](https://nishkaaminnovations.com/ghostlock/)  
-📝 [Medium Blog](https://medium.com/@sasanksingh2074/stop-pickpockets-before-they-strike-with-just-your-phone-824427e191e3)
+💼 [LinkedIn — Nishkaam Innovations](https://www.linkedin.com/company/nishkaam-innovations/)
 
 ---
 
